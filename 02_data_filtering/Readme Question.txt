@@ -36,7 +36,7 @@ Questions for this assignment
 
 2. How many different countries are there?
 
-3. What is the distribition of contries in top 100 universities?
+3. What is the distribution of countries in top 100 universities?
 
 4. What is the average number of students in top 10 universities?
 
